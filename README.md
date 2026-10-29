@@ -1,5 +1,3 @@
-# Luck Tower Defense — Dev Hub
-
 Painel em português para organizar o desenvolvimento do jogo no Roblox Studio.
 
 ## Recursos
